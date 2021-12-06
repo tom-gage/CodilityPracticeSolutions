@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tom\\Documents\\Codility\\Codility.csproj",
+      "projectUniqueName": "C:\\Users\\Tom\\Documents\\CodilityPracticeSolutions\\Codility.csproj",
       "projectName": "Codility",
-      "projectPath": "C:\\Users\\Tom\\Documents\\Codility\\Codility.csproj",
+      "projectPath": "C:\\Users\\Tom\\Documents\\CodilityPracticeSolutions\\Codility.csproj",
       "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tom\\Documents\\Codility\\obj\\",
+      "outputPath": "C:\\Users\\Tom\\Documents\\CodilityPracticeSolutions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
